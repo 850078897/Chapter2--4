@@ -1,4 +1,5 @@
-sn = turtle.Turtle()
+import turtle
+sn = turtle.Screen()
 sn.bgcolor("lightgreen")
 shell = turtle.Turtle()
 shell.color("blue")
