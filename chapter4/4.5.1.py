@@ -9,7 +9,7 @@ def draw_spiral(sb,newbee):
     """
     draws on spiral
     """
-    for i in range(75):
+    for i in range(80):
         sb = sb + 5
         shell.fd(sb)
         shell.right(90)
